@@ -2,7 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,40:0d1b4b,100:1a3a7a&height=230&text=Sanjay%20S&fontSize=55&fontColor=00d4ff&fontAlignY=38&desc=Quantum%20Hardware%20Engineer%20%7C%20VLSI%20%7C%20RFSoC%20Control%20Electronics&descSize=15&descColor=7eb8f7&descAlignY=60&animation=fadeIn" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Superconducting+Transmon+Qubit+Design+%7C+EM+Simulation+%F0%9F%94%AC;VLSI+ASIC+Flow+%7C+RTL+to+GDSII+%7C+Cadence+%26+Synopsys+%F0%9F%96%A5%EF%B8%8F;RFSoC+ZCU111+%7C+RF+ADC%2FDAC+IP+%7C+Qubit+Control+Electronics+%F0%9F%9A%80;CQST+CIT+%7C+C-DAC+Bengaluru+%7C+VLSID+Design+Contest+Finalist;Building+the+Full+Stack+of+Quantum+Computing+Hardware" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-s1325)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjaysuresh05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysuresh1302@gmail.com)
+[![CIT Mail](https://img.shields.io/badge/CIT%20Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sanjays.ece2023@citchennai.net)
 
 </div>
 
@@ -10,11 +19,13 @@
 
 ## 🧬 About Me
 
-I'm **Sanjay S**, an **ECE undergraduate (CGPA: 9.24)** at Chennai Institute of Technology, on a focused path toward **Quantum Hardware Engineering**. My work spans the full stack of quantum computing hardware — from **superconducting transmon qubit design and EM simulation**, through **FPGA-based RFSoC control electronics**, to **full-custom VLSI ASIC design flows**.
+I'm **Sanjay S**, a **pre-final year ECE student** at **Chennai Institute of Technology and Applied Research**, on a focused path toward **Quantum Hardware Engineering**. My work spans the full stack of quantum computing hardware — from **superconducting transmon qubit design and EM simulation**, through **FPGA-based RFSoC control electronics**, to **full-custom VLSI ASIC design flow**.
 
-I'm currently a **Research Assistant at CQST, CIT** (since Oct 2023) and recently completed an internship at the **Quantum Technology Group, C-DAC Bengaluru** (Jan 2026), where I worked on RF ADC/DAC IP development and hands-on photonic quantum lab experiments including DPS-QKD setups.
+I'm currently a **Research Intern at the Quantum Technology Group, C-DAC Bengaluru**, working on superconducting transmon qubit design, EM analysis, RF ADC/DAC IP development, and hands-on photonic quantum lab experiments including DPS-QKD setups. I also serve as a **Research Assistant at CQST, Chennai Institute of Technology** (since Oct 2023).
 
-I also contributed to **OLI — India's first digital neuromorphic processor** at ULOG3, and designed and launched the **ULOG-3 CubeSat** to the stratosphere in September 2024.
+I contributed to **OLI — India's first digital neuromorphic processor** at ULOG3, and designed and launched the **ULOG-3 CubeSat** to the stratosphere in September 2024.
+
+<br/>
 
 > *"Quantum computing needs engineers who speak both qubit and silicon. I'm building that bridge."*
 
@@ -22,112 +33,174 @@ I also contributed to **OLI — India's first digital neuromorphic processor** a
 
 ## 🏆 Highlights
 
-🥇 **MSME Idea Hackathon 4.0 Winner** — ₹15 Lakh award for neuromorphic EO payload small satellite concept  
-🏅 **VLSID Design Contest 2026 Finalist** — 4-Qubit Flip-Chip Transmon Processor (Pune, Jan 2026)  
-🏅 **Amaravati Quantum Valley Hackathon Finalist** — Hybrid Quantum ML fraud detection prototype  
-🛰️ **ULOG-3 CubeSat** — Designed, built, and launched to the stratosphere (Sep 2024)  
-📊 **LeetCode**: 502 solved | Rating: 1732 &nbsp;|&nbsp; **CodeChef**: 220 solved | Rating: 1294
+<div align="center">
+
+| 🥇 | **MSME Idea Hackathon 4.0 — Winner** | ₹15 Lakh award for a neuromorphic EO payload small satellite concept |
+|:---:|:---|:---|
+| 🏅 | **VLSID Design Contest 2026 — Finalist** | 4-Qubit Flip-Chip Transmon Processor · Pune, Jan 2026 |
+| 🏅 | **Amaravati Quantum Valley Hackathon — Finalist** | Hybrid Quantum ML fraud detection prototype |
+| 🛰️ | **ULOG-3 CubeSat — Successfully Launched** | Designed, built, and launched to the stratosphere · Sep 2024 |
+
+</div>
 
 ---
 
 ## 🗺️ My Full Engineering Stack
 
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                  QUANTUM HARDWARE LAYER                      │
-  │  Transmon / Fluxonium Qubit Design  │  Flip-Chip Processor   │
-  │  Purcell Filter Optimization        │  Optical Mask Design    │
-  │  Qiskit Metal │ KQCircuits │ scQubits │ QuTiP │ Cirq         │
-  │  ANSYS HFSS / Q3D │ Keysight ADS & QuantumPro │ EPR Analysis │
-  └──────────────────────────┬───────────────────────────────────┘
-                             │
-  ┌──────────────────────────▼───────────────────────────────────┐
-  │               CONTROL ELECTRONICS LAYER                      │
-  │  RFSoC ZCU111  │  RF ADC / DAC IP  │  RF Data Converter      │
-  │  NCO / AWG Pulse Shaping │ AXI SmartConnect │ BRAM Capture   │
-  │  DPS-QKD Photonic Systems │ Single Photon Detectors          │
-  └──────────────────────────┬───────────────────────────────────┘
-                             │
-  ┌──────────────────────────▼───────────────────────────────────┐
-  │                    VLSI / FPGA LAYER                         │
-  │  RTL (Verilog) → Xcelium Sim → Genus Synthesis              │
-  │  Innovus P&R → Tempus STA → Assura DRC/LVS → Quantus PEX   │
-  │  Virtuoso Schematic/Layout │ Synopsys Custom Compiler        │
-  │  Synopsys Design Compiler  │ HSPICE │ VCS │ Verdi            │
-  │  OpenLane │ Yosys │ Magic │ KLayout │ Xschem (Open-Source)  │
-  │  ZCU102 FPGA │ ZCU111 RFSoC │ Xilinx Vivado & Vitis         │
-  └──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+### 🟣 QUANTUM HARDWARE LAYER
+![](https://img.shields.io/badge/Transmon%20Qubit%20Design-6929C4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Fluxonium%20Design-6929C4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Flip--Chip%20Processor-6929C4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Optical%20Mask%20Design-6929C4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Purcell%20Filter%20Optimization-6929C4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/EPR%20Analysis-7F77DD?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/S--Parameter%20Simulation-7F77DD?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/GDS%20Export-7F77DD?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/cQED%20Modeling-7F77DD?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Circuit%20Quantization-7F77DD?style=flat-square&logoColor=white)
+
+![](https://img.shields.io/badge/Qiskit%20Metal-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/KQCircuits-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/scQubits-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/QuTiP-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Cirq-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/ANSYS%20HFSS-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/ANSYS%20Q3D-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Keysight%20ADS-AFA9EC?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/QuantumPro-AFA9EC?style=flat-square&logoColor=white)
+
+<br/>
+
+### 🟢 CONTROL ELECTRONICS LAYER
+![](https://img.shields.io/badge/RFSoC%20ZCU111-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/RF%20ADC%20IP-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/RF%20DAC%20IP-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/RF%20Data%20Converter-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/NCO%20%2F%20AWG%20Pulse%20Shaping-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/DPS--QKD%20Systems-1D9E75?style=flat-square&logoColor=white)
+
+![](https://img.shields.io/badge/AXI%20SmartConnect-5DCAA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/BRAM%20Capture-5DCAA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Zynq%20Ultrascale%2B-5DCAA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Single%20Photon%20Detectors-5DCAA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Optical%20Couplers-5DCAA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Polarization%20Beam%20Splitters-5DCAA5?style=flat-square&logoColor=white)
+
+<br/>
+
+### 🟠 VLSI / FPGA LAYER
+![](https://img.shields.io/badge/RTL%20Design%20%28Verilog%29-BA7517?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Logic%20Synthesis-BA7517?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Place%20%26%20Route-BA7517?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Static%20Timing%20Analysis-BA7517?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Custom%20IC%20Layout-BA7517?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/DRC%20%2F%20LVS-BA7517?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Bitstream%20Generation-BA7517?style=flat-square&logoColor=white)
+
+![](https://img.shields.io/badge/Cadence%20Genus-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Cadence%20Innovus-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Cadence%20Tempus-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Cadence%20Virtuoso-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Cadence%20Xcelium-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Synopsys%20Custom%20Compiler-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Synopsys%20Design%20Compiler-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/HSPICE-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/VCS-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Verdi-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/OpenLane-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Yosys-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Magic-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/KLayout-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Xilinx%20Vivado-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Xilinx%20Vitis-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/ZCU102%20FPGA-EF9F27?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-### ⚛️ Research Intern — Quantum Technology Group, C-DAC Bengaluru *(Jan 2026)*
-- Designed and simulated superconducting qubits using Qiskit Metal, scQubits, KQCircuits, ANSYS HFSS, Q3D, and Keysight ADS QuantumPro
-- Developed IP modules for **RF ADC, RF DAC, and RF Data Converters** for quantum control electronics; studied NCO and AWG signal generation
-- Hands-on photonic lab: **DPS-QKD setups**, lasers, optical couplers, polarization beam splitters, single photon detectors, photonic coincidence experiments
+### ⚛️ Research Intern — Quantum Technology Group, C-DAC Bengaluru &nbsp;*(Jan 2026 – Present)*
+- Designed and simulated superconducting qubits using Qiskit Metal, scQubits, KQCircuits, ANSYS HFSS, ANSYS Q3D, and Keysight ADS QuantumPro
+- Developed IP modules for **RF ADC, RF DAC, and RF Data Converters** for quantum control electronics; studied NCO and AWG signal generation techniques
+- Gained hands-on experience with photonic lab systems: **DPS-QKD setups**, lasers, optical couplers, polarization beam splitters, single-photon detectors, and photonic coincidence experiments
 
-### ⚛️ Research Assistant — CQST, Chennai Institute of Technology *(Oct 2023 – Present)*
-- Design and simulation of **transmon qubits and readout resonators** using Qiskit Metal, ANSYS HFSS, and Q3D
+### ⚛️ Research Assistant — CQST, Chennai Institute of Technology &nbsp;*(Oct 2023 – Present)*
+- Design and EM simulation of **transmon qubits and readout resonators** using Qiskit Metal, ANSYS HFSS, and ANSYS Q3D
 - Studied Cooper pair physics, superconductivity, Hamiltonian modeling, and circuit quantization
-- Working on **flip-chip integrated superconducting quantum processors** and Josephson junction engineering for high-coherence systems
+- Working on **flip-chip integrated superconducting quantum processors** and Josephson junction engineering for high-coherence qubit systems
 
-### 🖥️ VLSI Engineer — ULOG3, Chennai *(Oct 2023 – Present)*
-- Contributed to **OLI (On-chip Learning Intelligence)** — India's first digital neuromorphic processor — RTL synthesis and optimization using Cadence Genus
-- Implemented OLI processor on **ZCU102 FPGA** via Vivado and Vitis for real-time validation
-- Designed and developed **ULOG-3 CubeSat** — launched to the stratosphere in Sep 2024; handled circuit, power, and payload integration
+### 🖥️ VLSI Engineer — ULOG3, Chennai &nbsp;*(Oct 2023 – Present)*
+- Contributed to **OLI (On-chip Learning Intelligence)** — India's first digital neuromorphic processor — covering front-end design, RTL synthesis, and optimization using Cadence Genus
+- Implemented the OLI processor on **ZCU102 FPGA** via Xilinx Vivado and Vitis for real-time hardware validation
+- Designed and developed the **ULOG-3 CubeSat** — launched to the stratosphere in Sep 2024 — handling circuit design, power management, and payload integration
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚛️ [Single Transmon Qubit with Integrated Readout Resonator](https://github.com/Sanjaysuresh05/transmon-qubit-design) *(Sep 2025)*
-> Full design and EM simulation of a transmon qubit coupled to a CPW readout resonator.
+### ⚛️ [Single Transmon Qubit with Integrated Readout Resonator](https://github.com/Sanjaysuresh05/transmon-qubit-design) &nbsp;*(Sep 2025)*
 
-**Achieved Results:**
-- Qubit frequency: **5.51 GHz** | Anharmonicity: **−377 MHz**
-- **EJ/EC = 41.2** | Coupling strength **g = 119 MHz** | χ = 3.89 MHz
-- Charge dispersion: **62 kHz** | Simulated **T₁ = 46.1 μs**
+> Designed and analyzed a single transmon qubit coupled to a coplanar waveguide (CPW) readout resonator. Performed full EM simulation, capacitance extraction, EPR analysis, and qubit parameter validation.
 
-`Qiskit Metal` `ANSYS HFSS` `ANSYS Q3D` `EPR Analysis` | ✅ **Completed**
+| Parameter | Value |
+|---|---|
+| Qubit Frequency | **5.51 GHz** |
+| Anharmonicity | **−377 MHz** |
+| E<sub>J</sub>/E<sub>C</sub> Ratio | **41.2** |
+| Coupling Strength g | **119 MHz** |
+| Dispersive Shift χ | **3.89 MHz** |
+| Charge Dispersion | **62 kHz** |
+| Simulated T₁ | **46.1 μs** |
 
----
-
-### 🏗️ [4-Qubit Flip-Chip Transmon Processor](https://github.com/Sanjaysuresh05/4qubit-flipchip-processor) *(VLSID 2026 Finalist)*
-> 3D flip-chip integrated processor (Q-chip + C-chip) with CPW readout resonators, inter-qubit coupling buses, and controlled-impedance transmission lines. GDS exported for fabrication.
-
-**Results:** Qubit frequencies 4.13–4.29 GHz | T₁: 2.69–4.94 μs | Crosstalk reduced from −37 dB → −55 dB | Q-factor > 1.2×10⁵
-
-`Keysight ADS` `QuantumPro` `ANSYS HFSS` `GDS Export` | ✅ **Completed — VLSID Finalist**
+`Qiskit Metal` `ANSYS HFSS` `ANSYS Q3D` `EPR Analysis` &nbsp;|&nbsp; ✅ **Completed**
 
 ---
 
-### 🔬 [6-Qubit Transmon Processor — Qiskit Metal + HFSS](https://github.com/Sanjaysuresh05/6qubit-transmon-processor)
-> 6-qubit planar transmon processor designed in Qiskit Metal with CPW bus resonators, imported into ANSYS HFSS for full 3D EM simulation, adaptive mesh refinement, EPR analysis, and GDS fabrication export.
+### 🏗️ [4-Qubit Flip-Chip Transmon Processor](https://github.com/Sanjaysuresh05/4qubit-flipchip-processor) &nbsp;*(VLSID 2026 Finalist)*
 
-`Qiskit Metal` `ANSYS HFSS` `EPR Analysis` `GDS Export` | 🔄 **In Progress**
+> Designed and EM-simulated a 3D flip-chip integrated processor (Q-chip + C-chip) featuring CPW readout resonators, inter-qubit coupling buses, and controlled-impedance transmission lines. The final verified layout was exported as a GDS file for fabrication.
+
+- Qubit frequencies: **4.13–4.29 GHz** | Anharmonicities: **129–146 MHz**
+- Coherence times T₁: **2.69–4.94 μs** | Quality factor Q > **1.2 × 10⁵**
+- Crosstalk reduced from **−37 dB → −55 dB** after geometry optimization
+
+`Keysight ADS` `QuantumPro` `ANSYS HFSS` `GDS Export` &nbsp;|&nbsp; ✅ **Completed — VLSID 2026 Finalist**
+
+---
+
+### 🔬 [6-Qubit Planar Transmon Processor](https://github.com/Sanjaysuresh05/6qubit-transmon-processor)
+
+> Designed a 6-qubit planar transmon processor in Qiskit Metal with CPW bus resonators and individual readout resonators. Imported into ANSYS HFSS for full 3D EM simulation with adaptive mesh refinement, EPR analysis, and GDS fabrication export.
+
+`Qiskit Metal` `ANSYS HFSS` `EPR Analysis` `GDS Export` &nbsp;|&nbsp; 🔄 **In Progress**
 
 ---
 
 ### 🎭 [Optical Mask Design — Multi-Transmon Device with Purcell-Optimized T₁](https://github.com/Sanjaysuresh05/optical-mask-transmon)
-> Optical mask for a multi-transmon device targeting optimized Purcell-limited T₁. Geometry optimization, Purcell filter design, resonator coupling analysis. Collaborated with PhD scholars.
 
-`Qiskit Metal` `ANSYS HFSS` | 🔄 **In Progress**
+> Designed an optical mask for a multi-transmon device targeting optimized Purcell-limited T₁ and improved coherence. Performed geometry optimization, Purcell filter design, and resonator coupling analysis in collaboration with PhD researchers.
+
+`Qiskit Metal` `ANSYS HFSS` &nbsp;|&nbsp; 🔄 **In Progress**
 
 ---
 
 ### 🔌 [RFSoC Control Electronics for Superconducting Qubits](https://github.com/Sanjaysuresh05/rfsoc-qubit-control)
-> RF ADC/DAC IP blocks on Xilinx ZCU111 RFSoC using Zynq Ultrascale+ RF Data Converter IP. AXI SmartConnect fabric, BRAM capture for IQ readout data. Studying NCO and AWG for qubit pulse generation.
 
-`Verilog` `Xilinx Vivado` `ZCU111 RFSoC` `RF Data Converter IP` `AXI` | 🔄 **In Progress**
+> Designed RF ADC and DAC IP blocks on the Xilinx ZCU111 RFSoC using the Zynq Ultrascale+ RF Data Converter IP. Implemented AXI SmartConnect fabric and BRAM capture for IQ readout data acquisition. Currently studying NCO and AWG implementations for qubit drive pulse generation.
+
+`Verilog` `Xilinx Vivado` `ZCU111 RFSoC` `RF Data Converter IP` `AXI` &nbsp;|&nbsp; 🔄 **In Progress**
 
 ---
 
-### 🖥️ [Low-Power Multi-Function ALU — Full ASIC Flow](https://github.com/Sanjaysuresh05/vlsi-alu-asic-flow) *(Jun 2025)*
-> Complete ASIC design: RTL (Verilog) → Xcelium simulation → Genus synthesis → Conformal formal verification → Innovus P&R → Tempus STA → DRC/LVS-clean layout. TCL scripting + SDC constraints.
+### 🖥️ [Low-Power Multi-Function ALU — Full ASIC Flow](https://github.com/Sanjaysuresh05/vlsi-alu-asic-flow) &nbsp;*(Jun 2025)*
 
-`Verilog` `Cadence Genus` `Innovus` `Tempus` `Conformal` `Assura` | ✅ **Completed**
+> Implemented a low-power, high-performance multi-function ALU through a complete ASIC design flow: RTL coding in Verilog → Xcelium simulation → Genus synthesis → Innovus place & route → Tempus static timing analysis → DRC/LVS-clean layout. Used TCL scripting and SDC constraints for timing control.
+
+`Verilog` `Cadence Genus` `Cadence Innovus` `Cadence Tempus` `Cadence Virtuoso` &nbsp;|&nbsp; ✅ **Completed**
 
 ---
 
@@ -153,9 +226,6 @@ I also contributed to **OLI — India's first digital neuromorphic processor** a
 ![Tempus](https://img.shields.io/badge/Cadence%20Tempus-FF6B00?style=for-the-badge&logoColor=white)
 ![Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF6B00?style=for-the-badge&logoColor=white)
 ![Xcelium](https://img.shields.io/badge/Cadence%20Xcelium-FF6B00?style=for-the-badge&logoColor=white)
-![Assura](https://img.shields.io/badge/Cadence%20Assura-FF6B00?style=for-the-badge&logoColor=white)
-![Quantus](https://img.shields.io/badge/Cadence%20Quantus-FF6B00?style=for-the-badge&logoColor=white)
-![Conformal](https://img.shields.io/badge/Cadence%20Conformal-FF6B00?style=for-the-badge&logoColor=white)
 
 **Synopsys Suite:**
 ![Custom Compiler](https://img.shields.io/badge/Synopsys%20Custom%20Compiler-1464F4?style=for-the-badge&logoColor=white)
@@ -205,59 +275,22 @@ I also contributed to **OLI — India's first digital neuromorphic processor** a
 ## 📚 Currently Learning
 
 | Area | Topic |
-|------|-------|
-| ⚛️ Quantum | Transmon Hamiltonian — $E_J \gg E_C$ regime, flux sweet spot, charge dispersion |
-| ⚛️ Quantum | Dispersive readout — $\chi$ shift, Purcell decay, optimal resonator $\kappa$ |
-| ⚛️ Quantum | Full EM workflow — layout → Q3D → $C_\Sigma$ → $E_C$ → $f_{01}$ |
-| ⚛️ Quantum | Fluxonium qubit — heavy fluxonium, inductive energy, coherence comparison |
-| 🔌 RFSoC | ZCU111 NCO — numerically controlled oscillator for qubit drive frequency |
-| 🔌 RFSoC | AWG pulse shaping for gate operations and readout timing |
-| 🖥️ VLSI | Timing closure — setup/hold fixing, useful skew, ECO flow in Innovus |
-| 🖥️ VLSI | Custom IC layout — DRC/LVS clean in Synopsys Custom Compiler |
+|:---:|:---|
+| ⚛️ Quantum | Transmon Hamiltonian — $E_J \gg E_C$ regime, flux sweet spot, charge dispersion suppression |
+| ⚛️ Quantum | Dispersive readout — $\chi$ shift, Purcell decay rate, optimal resonator linewidth $\kappa$ |
+| ⚛️ Quantum | Full EM-to-qubit workflow — layout → Q3D → $C_\Sigma$ → $E_C$ → $f_{01}$ |
+| ⚛️ Quantum | Fluxonium qubit — heavy fluxonium regime, inductive energy, coherence comparison with transmon |
+| 🔌 RFSoC | ZCU111 NCO — numerically controlled oscillator for qubit drive frequency generation |
+| 🔌 RFSoC | AWG pulse shaping for gate operations and readout signal timing |
+| 🖥️ VLSI | Timing closure in Innovus — setup/hold violation fixing, useful skew, ECO flow |
+| 🖥️ VLSI | Full-custom IC layout — DRC/LVS-clean design in Synopsys Custom Compiler |
 
 ---
 
-## 🎓 Key Certifications
 
-- 🏛️ **The Hardware of a Quantum Computer** — TU Delft
-- 🏛️ **Quantum Computing with Semiconductor Technology** — TU Delft (Professional Certificate)
-- 🔬 **Fundamentals of Superconducting Qubit** — QuTech Academy
-- 🔬 **Quantum Design Challenges and Superconducting Quantum Processor** — Keysight Learn
-- 📐 **Introduction to Quantum Computing: Quantum Algorithms and Qiskit** — IIT Madras (NPTEL Elite)
-- 🌐 **Introductory Course on Quantum Computing** — IISER Pune
-- 🌐 **Qubit by Qubit's Introduction to Quantum Computing** — The Coding School
-- 🖥️ **VLSI Pro: SoC Design Fundamentals** | **VLSI Design** — Internshala | NIELIT-Calicut
-
----
-
-## 🌐 Workshops & Events
-
-- ⚛️ **Quantum Superconducting Circuit Design Program** — Womanium Quantum
-- 💻 **Qiskit Fall Fest 2024** — IBM Quantum
-- 🎓 **Qiskit Global Summer School 2024** — IBM Quantum
-- 🔬 **Novel Superconducting Qubits** seminar — Google Quantum AI
-- 🏛️ **Quantum India Bengaluru 2025** — Govt. of Karnataka (Delegate)
-- 🏛️ **Familiarisation Workshop on Quantum Computing** — FQCI, IISc Bengaluru (Feb 2026)
-- 🏛️ **Quantum Conclave** — QuRP / FQCI, IISc Bengaluru (Feb 2025)
-- 🛰️ **Quantum Technology / Semiconductor / Nanotechnology Simulation** — Impulse Technology
-
----
-
-## 🌍 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-s1325)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjaysuresh05)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysuresh1302@gmail.com)
-[![Institute Email](https://img.shields.io/badge/CIT%20Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sanjays.ece2023@citchennai.net)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a7a,50:0d1b4b,100:0a0a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a7a,50:0d1b4b,100:0a0a2e&height=120&section=footer" />
 
 </div>
