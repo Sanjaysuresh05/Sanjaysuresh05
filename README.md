@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Superconducting+Transmon+Qubit+Design+%7C+EM+Simulation+%F0%9F%94%AC;VLSI+ASIC+Flow+%7C+RTL+to+GDSII+%7C+Cadence+%26+Synopsys+%F0%9F%96%A5%EF%B8%8F;RFSoC+ZCU111+%7C+RF+ADC%2FDAC+IP+%7C+Qubit+Control+Electronics+%F0%9F%9A%80;CQST+CIT+%7C+C-DAC+Bengaluru+%7C+VLSID+Design+Contest+Finalist;Building+the+Full+Stack+of+Quantum+Computing+Hardware" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=760&lines=Superconducting+Transmon+Qubit+Design+%7C+EM+Simulation+%F0%9F%94%AC;VLSI+ASIC+Flow+%7C+RTL+to+GDSII+%7C+Cadence+%26+Synopsys+%F0%9F%96%A5%EF%B8%8F;RFSoC+ZCU111+%7C+RF+ADC%2FDAC+IP+%7C+Qubit+Control+Electronics+%F0%9F%9A%80;SparQ+Internship+%40+QNu+Labs+%7C+ML+Randomness+Source+Attribution+%F0%9F%A7%A0;RIT+Quant-A-Thon+2026+Finalist+%7C+Dispersive+Shift+%CF%87+Optimization+%E2%9A%A1;CQST+CIT+%7C+C-DAC+Bengaluru+%7C+VLSID+Design+Contest+Finalist;Building+the+Full+Stack+of+Quantum+Computing+Hardware" />
 
 <br/><br/>
 
@@ -19,15 +19,17 @@
 
 ## 🧬 About Me
 
-I'm **Sanjay S**, a **pre-final year ECE student** at **Chennai Institute of Technology and Applied Research**, on a focused path toward **Quantum Hardware Engineering**. My work spans the full stack of quantum computing hardware — from **superconducting transmon qubit design and EM simulation**, through **FPGA-based RFSoC control electronics**, to **full-custom VLSI ASIC design flow**.
+I'm **Sanjay S**, a **pre-final year ECE student** at **Chennai Institute of Technology and Applied Research**, on a focused path toward **Quantum Hardware Engineering**. My work spans the full stack of quantum computing hardware — from **superconducting transmon qubit design and EM simulation**, through **FPGA-based RFSoC control electronics**, to **full-custom VLSI ASIC design flow** — and now extends into **ML-driven design tooling and randomness attribution** for quantum-safe security.
 
-I'm currently a **Research Intern at the Quantum Technology Group, C-DAC Bengaluru**, working on superconducting transmon qubit design, EM analysis, RF ADC/DAC IP development, and hands-on photonic quantum lab experiments including DPS-QKD setups. I also serve as a **Research Assistant at CQST, Chennai Institute of Technology** (since Oct 2023).
+I'm currently a **Research Intern at the Quantum Technology Group, C-DAC Bengaluru** (Jan 2026 – Aug 2026), working on superconducting transmon qubit design, EM analysis, RF ADC/DAC IP development, and hands-on photonic quantum lab experiments including DPS-QKD setups. I also serve as a **Research Assistant at CQST, Chennai Institute of Technology** (since Oct 2023).
+
+I recently completed the **SparQ Internship Program at QNu Labs**, where I helped build **RSAF**, a hierarchical, confidence-oriented machine learning framework that attributes binary randomness streams to their true source — PRNG vs. TRNG/QRNG — training and tuning the five-model ensemble at the core of the pipeline. In parallel, I'm a **finalist at RIT Quant-A-Thon 2026** with **Team Transmon Titans**, where I built a closed-form inverse-design engine that converts a target qubit frequency, resonator frequency, and dispersive shift directly into a fabricable transmon + readout-resonator geometry.
 
 I contributed to **OLI — India's first digital neuromorphic processor** at ULOG3, and designed and launched the **ULOG-3 CubeSat** to the stratosphere in September 2024.
 
 <br/>
 
-> *"Quantum computing needs engineers who speak both qubit and silicon. I'm building that bridge."*
+> *"Quantum computing needs engineers who speak qubit, silicon, and now the ML that designs and secures both."*
 
 ---
 
@@ -38,6 +40,7 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 | 🥇 | **MSME Idea Hackathon 4.0 — Winner** | ₹15 Lakh award for a neuromorphic EO payload small satellite concept |
 |:---:|:---|:---|
 | 🏅 | **VLSID Design Contest 2026 — Finalist** | 4-Qubit Flip-Chip Transmon Processor · Pune, Jan 2026 |
+| ⚡ | **RIT Quant-A-Thon 2026 — Finalist** | Dispersive Shift χ Optimizer — closed-form inverse-design engine for transmon + resonator geometry · Team Transmon Titans |
 | 🏅 | **Amaravati Quantum Valley Hackathon — Finalist** | Hybrid Quantum ML fraud detection prototype |
 | 🛰️ | **ULOG-3 CubeSat — Successfully Launched** | Designed, built, and launched to the stratosphere · Sep 2024 |
 
@@ -55,6 +58,7 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 ![](https://img.shields.io/badge/Flip--Chip%20Processor-6929C4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Optical%20Mask%20Design-6929C4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Purcell%20Filter%20Optimization-6929C4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Dispersive%20Shift%20Inverse%20Design-6929C4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/EPR%20Analysis-7F77DD?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/S--Parameter%20Simulation-7F77DD?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/GDS%20Export-7F77DD?style=flat-square&logoColor=white)
@@ -87,6 +91,22 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 ![](https://img.shields.io/badge/Single%20Photon%20Detectors-5DCAA5?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Optical%20Couplers-5DCAA5?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Polarization%20Beam%20Splitters-5DCAA5?style=flat-square&logoColor=white)
+
+<br/>
+
+### 🔵 ML & DATA SCIENCE LAYER
+![](https://img.shields.io/badge/Ensemble%20Learning-1464F4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Probability%20Calibration-1464F4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/SHAP%20Explainability-1464F4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Bayesian%20Optimization-1464F4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Randomness%20Source%20Attribution-1464F4?style=flat-square&logoColor=white)
+
+![](https://img.shields.io/badge/CatBoost-3C9FE0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/XGBoost-3C9FE0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/LightGBM-3C9FE0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-3C9FE0?style=flat-square&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Optuna-3C9FE0?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-3C9FE0?style=flat-square&logo=streamlit&logoColor=white)
 
 <br/>
 
@@ -123,10 +143,15 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 
 ## 💼 Experience
 
-### ⚛️ Research Intern — Quantum Technology Group, C-DAC Bengaluru &nbsp;*(Jan 2026 – Present)*
+### ⚛️ Research Intern — Quantum Technology Group, C-DAC Bengaluru &nbsp;*(Jan 2026 – Aug 2026)*
 - Designed and simulated superconducting qubits using Qiskit Metal, scQubits, KQCircuits, ANSYS HFSS, ANSYS Q3D, and Keysight ADS QuantumPro
 - Developed IP modules for **RF ADC, RF DAC, and RF Data Converters** for quantum control electronics; studied NCO and AWG signal generation techniques
 - Gained hands-on experience with photonic lab systems: **DPS-QKD setups**, lasers, optical couplers, polarization beam splitters, single-photon detectors, and photonic coincidence experiments
+
+### 🧠 Project Intern — SparQ Internship Program, QNu Labs Private Limited &nbsp;*(May 2026 – Jul 2026)*
+- Contributed to **RSAF**, a hierarchical, confidence-oriented ML framework that attributes binary randomness streams to algorithmic (PRNG) or physical (TRNG/QRNG) sources — theme: *RNG Randomness Quality Detection (ML)*
+- Trained and tuned the five-model tree-based ensemble (**CatBoost, XGBoost, LightGBM, Random Forest, Extra Trees**) over a 64-dimensional statistical feature set (entropy, spectral, correlation, compression, CUSUM descriptors), and benchmarked accuracy, precision, recall, and F1 across all learners
+- Evaluated on 37 binary sources (~4.15 GB), including QNu Labs' proprietary photonic QRNG output — framework reached **81.21%** mean generator-level attribution confidence and a calibrated Brier score of **0.16** (down from 0.21), with the ensemble F1 at **73.2%**
 
 ### ⚛️ Research Assistant — CQST, Chennai Institute of Technology &nbsp;*(Oct 2023 – Present)*
 - Design and EM simulation of **transmon qubits and readout resonators** using Qiskit Metal, ANSYS HFSS, and ANSYS Q3D
@@ -141,6 +166,33 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 ---
 
 ## 🚀 Featured Projects
+
+### ⚡ [Dispersive Shift (χ) Optimizer for Superconducting Qubit Design](https://github.com/Sanjaysuresh05/dispersive-shift-optimizer) &nbsp;*(RIT Quant-A-Thon 2026 — Finalist)*
+
+> Built a closed-form inverse-design engine — for **Team Transmon Titans** — that takes a judge-specified target qubit frequency, resonator frequency, and dispersive shift (f_q, f_r, χ) and returns a complete, fabricable transmon + readout-resonator geometry, instead of the usual forward simulate-and-tweak loop.
+
+- Closed-form inversion chain (E_C → E_J → C_Σ → L_j → pad geometry → resonator length → coupling g → Q_e) with fabricability gates that report rather than silently clamp out-of-range targets
+- Multi-fidelity Bayesian optimization framework (**Optuna TPE**) across an analytic → Q3D/MoM → HFSS+EPR fidelity ladder, with full EM solves reserved for verification only
+- Built the **Streamlit**-based design GUI and forward-model cross-checks against **Keysight ADS QuantumPro**, validating computed transmon parameters to within **0.04–0.6%** of published and measured reference values
+- Documented and resolved three silent convention mismatches between physics-standard and Keysight-convention definitions of qubit frequency and dispersive shift that had been producing false model-error readings
+- Backed by a 206-test automated suite; core physics layer has zero web/EM-license dependencies
+
+`Python` `Streamlit` `Optuna` `NumPy/SciPy` `ANSYS HFSS` `ANSYS Q3D` `Keysight ADS QuantumPro` &nbsp;|&nbsp; 🏅 **RIT Quant-A-Thon 2026 Finalist**
+
+---
+
+### 🧠 [RSAF — Randomness Source Attribution Framework](https://github.com/Sanjaysuresh05/rsaf-randomness-attribution) &nbsp;*(SparQ Internship, QNu Labs · May–Jul 2026)*
+
+> Team project attributing binary randomness streams to algorithmic (PRNG) vs. physical (TRNG/QRNG) sources with a **calibrated confidence score** rather than a bare pass/fail verdict — evaluated against QNu Labs' own photonic QRNG hardware. My contribution centered on training and tuning the ensemble layer and its evaluation metrics.
+
+- 64-dimensional handcrafted statistical feature set (entropy, byte statistics, histograms, lag/autocorrelation, compression ratios, spectral, CUSUM) extracted per 512 KB window
+- Five-model tree ensemble (**CatBoost, XGBoost, LightGBM, Random Forest, Extra Trees**) fused by soft-voting, with **isotonic probability calibration** and hierarchical window → file → generator voting
+- **SHAP**-based explainability and a novel **Randomness Quality Index (RQI)**, an independent 0–100 composite quality metric
+- Evaluated on 37 sources (~4.15 GB): mean generator-level attribution confidence **81.21%**, Brier score **0.16** (23.8% relative improvement over uncalibrated), ensemble F1 **73.2%**
+
+`Python` `CatBoost` `XGBoost` `LightGBM` `scikit-learn` `SHAP` &nbsp;|&nbsp; ✅ **Completed**
+
+---
 
 ### ⚛️ [Single Transmon Qubit with Integrated Readout Resonator](https://github.com/Sanjaysuresh05/transmon-qubit-design) &nbsp;*(Sep 2025)*
 
@@ -218,6 +270,17 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 ![Keysight ADS](https://img.shields.io/badge/Keysight%20ADS-0096D6?style=for-the-badge&logoColor=white)
 ![QuantumPro](https://img.shields.io/badge/Keysight%20QuantumPro-0096D6?style=for-the-badge&logoColor=white)
 
+### 🤖 Machine Learning & Data Science
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B25?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-0078D7?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### 🖥️ VLSI & ASIC — Full RTL-to-GDSII Flow
 
 **Cadence Suite:**
@@ -280,6 +343,8 @@ I contributed to **OLI — India's first digital neuromorphic processor** at ULO
 | ⚛️ Quantum | Dispersive readout — $\chi$ shift, Purcell decay rate, optimal resonator linewidth $\kappa$ |
 | ⚛️ Quantum | Full EM-to-qubit workflow — layout → Q3D → $C_\Sigma$ → $E_C$ → $f_{01}$ |
 | ⚛️ Quantum | Fluxonium qubit — heavy fluxonium regime, inductive energy, coherence comparison with transmon |
+| 🤖 ML | Probability calibration (isotonic regression) and SHAP-based explainability for security-critical randomness attribution |
+| 🤖 ML | Multi-fidelity Bayesian optimization (Optuna) for closed-form inverse qubit design |
 | 🔌 RFSoC | ZCU111 NCO — numerically controlled oscillator for qubit drive frequency generation |
 | 🔌 RFSoC | AWG pulse shaping for gate operations and readout signal timing |
 | 🖥️ VLSI | Timing closure in Innovus — setup/hold violation fixing, useful skew, ECO flow |
