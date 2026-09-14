@@ -1,4 +1,4 @@
-# Sanjay S.
+# Sanjay S
 
 **Final-year ECE student, Chennai Institute of Technology and Applied Research** · CGPA 9.16
 
@@ -19,8 +19,7 @@ fabrication-to-characterization loop forward.
 | Design | Result |
 |---|---|
 | Single transmon + CPW readout resonator | f₀₁ **5.51 GHz**, anharmonicity **−377 MHz**, E_J/E_C **41.2**, g **119 MHz**, χ **3.89 MHz**, charge dispersion 62 kHz, simulated T₁ **46.1 µs** |
-| 4-qubit flip-chip processor | Crosstalk **−37 dB → −55 dB**, T₁ **2.69–4.94 µs**, Q > **1.2 × 10⁵**, qubit frequencies 4.13–4.29 GHz |
-| Dispersive shift (χ) optimizer | Agreement with Keysight ADS QuantumPro to within **0.04–0.6%**; 206-test automated suite |
+| 4-qubit flip-chip processor | Simulated T₁ **3.52–4.61 µs**, Q ≈ **1.3 × 10⁵**, qubit frequencies 4.69–6.19 GHz |
 | RSAF randomness attribution | **81.21%** mean generator-level confidence, Brier **0.16** (from 0.21), ensemble F1 **73.2%**, 37 sources / ~4.15 GB |
 
 ---
@@ -30,32 +29,54 @@ fabrication-to-characterization loop forward.
 ### [4-Qubit Flip-Chip Transmon Processor](https://github.com/Sanjaysuresh05/4qubit-flipchip-processor)
 *VLSID Design Contest 2026 — Finalist*
 
-A 3D-integrated Q-chip/C-chip architecture in Qiskit Metal that physically separates qubits from
+A 3D-integrated Q-chip/C-chip architecture in Keysight ADS QuantumPro that physically separates qubits from
 control and readout routing, cutting crosstalk without adding routing congestion. EM-verified in
 Ansys HFSS and exported to GDS for fabrication.
 
-`Qiskit Metal` `Keysight ADS QuantumPro` `Ansys HFSS` `GDS Export`
+`Keysight ADS QuantumPro` `Ansys HFSS` `Ansys Q3D` `KLayout` `GDS Export`
+
+### [RSAF — Randomness Source Attribution Framework](https://github.com/Sanjaysuresh05/rsaf-randomness-attribution)
+*SparQ Internship Program, QNu Labs · May–Jul 2026 · 4-person team project*
+
+Attributes a binary randomness stream to an algorithmic (PRNG) or physical (TRNG/QRNG) source with a
+calibrated confidence score rather than a pass/fail verdict. A 64-dimensional statistical fingerprint
+per 512 KB window feeds a five-model tree ensemble with isotonic calibration and hierarchical
+window → file → generator voting. Built by a four-person intern team mentored by QNu Labs engineers;
+my contribution was the ensemble layer and its evaluation metrics.
+
+`Python` `CatBoost` `XGBoost` `LightGBM` `scikit-learn` `SHAP`
 
 ### [Dispersive Shift (χ) Optimizer for Superconducting Qubit Design](https://github.com/Sanjaysuresh05/dispersive-shift-optimizer)
 *RIT Quant-A-Thon 2026 — Finalist, Team Transmon Titans*
 
 A closed-form inverse-design engine that converts a target (f_q, f_r, χ) directly into a fabricable
 transmon + readout-resonator geometry, replacing the usual forward simulate-and-tweak loop.
-Fabricability gates report out-of-range targets rather than silently clamping them. Multi-fidelity
-Bayesian optimization (Optuna TPE) runs an analytic → Q3D/MoM → HFSS+EPR ladder, reserving full EM
-solves for verification only.
+Multi-fidelity Bayesian optimization (Optuna TPE) runs an analytic → Q3D/MoM → HFSS+EPR ladder,
+reserving full EM solves for verification only.
 
 `Python` `Streamlit` `Optuna` `NumPy/SciPy` `Ansys HFSS` `Ansys Q3D` `Keysight ADS QuantumPro`
 
-### [RSAF — Randomness Source Attribution Framework](https://github.com/Sanjaysuresh05/rsaf-randomness-attribution)
-*SparQ Internship Program, QNu Labs · May–Jul 2026*
+### FPGA-Based Quantum Control Electronics
+*C-DAC Bengaluru · 2026*
 
-Attributes a binary randomness stream to an algorithmic (PRNG) or physical (TRNG/QRNG) source with a
-calibrated confidence score rather than a pass/fail verdict. A 64-dimensional statistical fingerprint
-per 512 KB window feeds a five-model tree ensemble with isotonic calibration and hierarchical
-window → file → generator voting. My contribution centred on the ensemble layer and its evaluation.
+The classical half of a qubit system: the on-chip RF-ADC and RF-DAC path that generates control
+pulses and digitises readout. RF Data Converter IP configured on a ZCU111 RFSoC — RF-ADC Tile_224 and
+RF-DAC Tile_229 at 1.47456 GSPS — then the AXI4-Lite power-on sequence simulated and implementation
+closed for the xczu28dr-ffvg1517-2-e. The loopback block design is the vendor's reference design,
+configured and implemented here rather than authored, and not run on hardware.
 
-`Python` `CatBoost` `XGBoost` `LightGBM` `scikit-learn` `SHAP`
+`Xilinx Vivado` `Zynq UltraScale+ RFSoC` `RF Data Converter IP` `AXI4-Stream`
+
+### GDS Layer Conventions and Cross-Tool Mapping
+*C-DAC Bengaluru · 2026 · Mini project*
+
+Mapping layouts out of KQCircuits, Qiskit Metal and Keysight ADS into the ConScience Q-MPW foundry
+stack, by function rather than by number. The base layer inverts — KQCircuits and ConScience draw the
+gap, Qiskit Metal and Keysight ADS draw the metal — so renumbering alone would swap metal and gap
+across the whole chip. Keep-out layers have no ConScience equivalent, so conversion has to run after
+flux-hole generation, never before.
+
+`KLayout` `KQCircuits` `Qiskit Metal` `Keysight ADS` `GDS`
 
 ### [Single Transmon Qubit with Integrated Readout Resonator](https://github.com/Sanjaysuresh05/transmon-qubit-design)
 *Sep 2025*
@@ -70,7 +91,6 @@ extraction, EPR analysis, and parameter validation against target.
 
 - **6-Qubit Planar Transmon Processor** — CPW bus and individual readout resonators; full 3D EM simulation with adaptive mesh refinement, EPR analysis and GDS export. `Qiskit Metal` `Ansys HFSS`
 - **Optical Mask Design — Multi-Transmon Device** — Purcell-filter optimization for improved T₁, with PhD-researcher collaborators. `Qiskit Metal` `Ansys HFSS`
-- **RFSoC Control Electronics for Superconducting Qubits** — RF ADC/DAC IP on Xilinx ZCU111 using the Zynq UltraScale+ RF Data Converter IP, AXI SmartConnect fabric and BRAM capture for IQ readout. `Verilog` `Xilinx Vivado`
 - **Low-Power Multi-Function ALU — Full ASIC Flow** — RTL → Xcelium → Genus → Innovus → Tempus → DRC/LVS-clean layout. `Verilog` `Cadence`
 
 ---
