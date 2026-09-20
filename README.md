@@ -35,7 +35,7 @@ Ansys HFSS and exported to GDS for fabrication.
 
 `Keysight ADS QuantumPro` `Ansys HFSS` `Ansys Q3D` `KLayout` `GDS Export`
 
-### [RSAF — Randomness Source Attribution Framework](https://github.com/Sanjaysuresh05/rsaf-randomness-attribution)
+### RSAF — Randomness Source Attribution Framework
 *SparQ Internship Program, QNu Labs · May–Jul 2026 · 4-person team project*
 
 Attributes a binary randomness stream to an algorithmic (PRNG) or physical (TRNG/QRNG) source with a
@@ -46,7 +46,7 @@ my contribution was the ensemble layer and its evaluation metrics.
 
 `Python` `CatBoost` `XGBoost` `LightGBM` `scikit-learn` `SHAP`
 
-### [Dispersive Shift (χ) Optimizer for Superconducting Qubit Design](https://github.com/Sanjaysuresh05/dispersive-shift-optimizer)
+### Dispersive Shift (χ) Optimizer for Superconducting Qubit Design
 *RIT Quant-A-Thon 2026 — Finalist, Team Transmon Titans*
 
 A closed-form inverse-design engine that converts a target (f_q, f_r, χ) directly into a fabricable
@@ -78,7 +78,7 @@ flux-hole generation, never before.
 
 `KLayout` `KQCircuits` `Qiskit Metal` `Keysight ADS` `GDS`
 
-### [Single Transmon Qubit with Integrated Readout Resonator](https://github.com/Sanjaysuresh05/transmon-qubit-design)
+### Single Transmon Qubit with Integrated Readout Resonator
 *Sep 2025*
 
 The first fully EM-verified qubit design in the pipeline, and the baseline everything else builds on:
