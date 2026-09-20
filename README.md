@@ -31,9 +31,9 @@ fabrication-to-characterization loop forward.
 
 A 3D-integrated Q-chip/C-chip architecture in Keysight ADS QuantumPro that physically separates qubits from
 control and readout routing, cutting crosstalk without adding routing congestion. EM-verified in
-Ansys HFSS and exported to GDS for fabrication.
+Keysight ADS QuantumPro and exported to GDS for fabrication.
 
-`Keysight ADS QuantumPro` `Ansys HFSS` `Ansys Q3D` `KLayout` `GDS Export`
+`Keysight ADS QuantumPro` `Ansys Q3D` `KLayout` `GDS Export`
 
 ### RSAF — Randomness Source Attribution Framework
 *SparQ Internship Program, QNu Labs · May–Jul 2026 · 4-person team project*
